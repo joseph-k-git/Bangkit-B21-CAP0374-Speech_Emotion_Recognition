@@ -1,8 +1,8 @@
 # Bangkit-B21-CAP0374-Speech_Emotion_Recognition
 
-1. SER directory is the saved trained model.
+1. SER.zip is the saved trained model.
 2. SER.tflite is also the saved trained model in TensorFlow Lite format.
-3. Speech_Emotion_Recognition is the Python Notebook contains all the codes from Dataset Preprocessing, Model Building, Model Training, and Model Saving.
+3. Speech_Emotion_Recognition.ipynb is the Python Notebook contains all the codes from Dataset Preprocessing, Model Building, Model Training, and Model Saving.
 
 You can download the Audio_Speech_Actors_01-24.zip part of RAVDESS dataset and read more about it from https://zenodo.org/record/1188976
 Extract Audio_Speech_Actors_01-24.zip into a folder (can be named Zenodo_1188976)
